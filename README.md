@@ -121,7 +121,3 @@ This dual-part implementation demonstrates the flexibility and robustness of EKF
 - **Focus on Code**: Modularized scripts for easy understanding and adaptation.
 - **Robust Algorithms**: Handles real-world challenges like sensor noise, delays, and packet loss.
 - **Extensive Documentation**: Includes comments and explanations for each step.
-
----
-
-This detailed description offers a comprehensive overview of the repository, emphasizing the code, algorithms, datasets, and applications. It positions the project as a practical and research-driven implementation of EKF for navigation and localization tasks.
