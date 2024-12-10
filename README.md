@@ -138,7 +138,3 @@ Each part uses the same process model but incorporates distinct measurement mode
 - Incorporate visual odometry data for enhanced robustness.
 - Extend to SLAM (Simultaneous Localization and Mapping) with obstacle detection.
 - Test additional datasets with varied noise levels.
-
----
-
-This enhanced description provides a detailed overview of the repository, including the structure, algorithms, applications, and potential improvements. Let me know if you’d like further adjustments!
