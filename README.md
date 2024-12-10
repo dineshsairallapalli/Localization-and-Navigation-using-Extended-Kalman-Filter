@@ -2,7 +2,7 @@ Localization-and-Navigation-Using- Extended Kalman Filter
 
 ---
 
-### **Repository Description**
+### ** Description**
 This repository demonstrates the implementation of an **Extended Kalman Filter (EKF)** to achieve precise localization and navigation for a **Micro Aerial Vehicle (MAV)**. By leveraging sensor fusion between IMU (Inertial Measurement Unit) data and external Vicon measurements, this project estimates critical state variables such as position, velocity, orientation, and sensor biases. The repository includes MATLAB code, pre-parsed datasets, and detailed visualizations, making it a comprehensive resource for exploring EKF-based sensor fusion in real-world scenarios.
 
 ---
