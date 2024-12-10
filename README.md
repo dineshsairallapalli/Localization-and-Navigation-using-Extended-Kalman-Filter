@@ -1,4 +1,4 @@
-### **Repository Name**: `Localization-and-Navigation-Using-EKF`
+Localization-and-Navigation-Using- Extended Kalman Filter
 
 ---
 
