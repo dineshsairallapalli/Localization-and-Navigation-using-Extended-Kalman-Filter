@@ -72,7 +72,7 @@ Each part uses the same process model but incorporates distinct measurement mode
 ### **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Localization-and-Navigation-Using-EKF.git
+   git clone https://github.com/dineshsairallapalli/Localization-and-Navigation-Using-EKF.git
    cd Localization-and-Navigation-Using-EKF
    ```
 2. Open MATLAB 2023b and load the scripts.
